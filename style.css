@@ -1,0 +1,21 @@
+h2{ 
+    color: deeppink;
+}
+body{
+    background-color: crimson;
+    color: hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+header{
+    border-bottom: lightcoral;
+}
+footer{
+    border-top: lawngreen;
+}
+#nome-usuario{
+    font-weight: 900;
+}
+.texto-ingles{
+    font-style: oblique;
+}
